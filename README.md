@@ -11,5 +11,5 @@ Exploratory Data Analysis of Adidas Sales in US using Excel.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/smp91/Excel---Adidas-Sales-dashboard-Project/blob/master/Screenshot/Screenshot%202023-04-19%20204418.jpg)
 
