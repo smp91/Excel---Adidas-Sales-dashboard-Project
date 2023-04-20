@@ -1,7 +1,7 @@
 
 # Adidas Sales Dashboard Project - Excel
 
-Exploratory Data Analysis of Adidas Sales in US using Excel.
+Exploratory Data Analysis of Adidas Sales in the US using Excel.
 
 
 - Summarized data by creating Pivot Tables with formulas to analyze trends, patterns, and relationships.
